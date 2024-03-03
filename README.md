@@ -1,9 +1,6 @@
-![Frisbee](image.png){ height="120px" style="display: block; margin: 0 auto" }
+<p align="center"><img src="image.png" height="180" /></p>
 
-# Frisbee
-## Lightweight, almost free, up in the clouds with everything you need.
-
-A short description about the project and/or client.
+# Frisbee - up in the clouds with everything you need.
 
 ## Getting Started
 
@@ -46,13 +43,6 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 * Live:
 * Release:
 * Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
 
 ## Additional Documentation and Acknowledgments
 
